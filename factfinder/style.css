@@ -1,0 +1,41 @@
+
+ div{
+	border:2px solid black;
+	min-height:300px;
+	width:500px;
+	margin:10px;
+	border-radius:10px;
+	display:flex;
+	font-size:15px;
+	padding:20px;
+ }
+
+input{
+	border:2px solid black;
+	min-height:30px;
+	width:80px;
+	border-radius:10px;
+	
+}
+input:hover{
+	border:2px solid black;
+	min-height:30px;
+	width:80px;
+	border-radius:10px;
+	background-color:DarkGray
+}
+h5{
+	
+	min-height:30px;
+	width:300px;
+	margin:10px;
+	border-radius:10px;
+	display:flex;
+	font-size:30px;
+}
+img{
+	height:200px;
+	width:200px;
+	float:down;
+	margin: 20px;
+}
